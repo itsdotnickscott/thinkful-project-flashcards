@@ -1,0 +1,101 @@
+{
+  "decks": [
+    {
+      "name": "Cheepis Quiz",
+      "description": "Only true Cheepi can pass this quiz!!",
+      "id": 4
+    }
+  ],
+  "cards": [
+    {
+      "front": "An identifier word for \"best cat\".",
+      "back": "Cheepis [CHEEP-iss] noun",
+      "id": 7,
+      "deckId": 4
+    },
+    {
+      "front": "The full name of fat hamster.",
+      "back": "Professor Moon Racer Rocket Man Winter Melon",
+      "id": 8,
+      "deckId": 4
+    },
+    {
+      "front": "The combination of a rodent psychic and a strong tree-like man.",
+      "back": "Baby Gremlin or Lil' Boy!!!",
+      "id": 9,
+      "deckId": 4
+    },
+    {
+      "front": "M",
+      "back": "I",
+      "deckId": 4,
+      "id": 10
+    },
+    {
+      "front": "S",
+      "back": "T",
+      "deckId": 4,
+      "id": 11
+    },
+    {
+      "front": "E",
+      "back": "R",
+      "deckId": 4,
+      "id": 12
+    },
+    {
+      "front": "Mister mister mister!!!",
+      "back": "Oh",
+      "deckId": 4,
+      "id": 13
+    },
+    {
+      "front": "Mister mister!!!!",
+      "back": "Ohhhh",
+      "deckId": 4,
+      "id": 14
+    },
+    {
+      "front": "MISTER!!",
+      "back": "OHHHHH!!",
+      "deckId": 4,
+      "id": 15
+    },
+    {
+      "front": "This treat is either a vegetable or a feline attractant.",
+      "back": "Celery/Catnip",
+      "deckId": 4,
+      "id": 16
+    },
+    {
+      "front": "Name one of two of my favorite League of Legend skins.",
+      "back": "Acceptable answers: Team Spirit Anivia or Molten Rammus",
+      "deckId": 4,
+      "id": 17
+    },
+    {
+      "front": "The drug that one Cheepis is recovering from.",
+      "back": "T*********ng M*rs",
+      "deckId": 4,
+      "id": 18
+    },
+    {
+      "front": "Name every Mister currently in this room.",
+      "back": "Mister, Mister Cat, Mister Moon, Mister Nugget, Mister Nibbis, Mister Squirrel",
+      "deckId": 4,
+      "id": 19
+    },
+    {
+      "front": "This is how much Cheepis love the Cheepi have for each other.",
+      "back": "Infinite",
+      "deckId": 4,
+      "id": 20
+    },
+    {
+      "front": "The Cheepis building we will head to after this question is done.",
+      "back": "Catnip 0_0",
+      "deckId": 4,
+      "id": 21
+    }
+  ]
+}
